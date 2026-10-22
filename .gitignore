@@ -1,0 +1,15 @@
+
+bin/
+target/
+*.class
+
+
+.project
+.classpath
+.settings/
+
+
+*.iml
+*.ipr
+*.iws
+.idea/

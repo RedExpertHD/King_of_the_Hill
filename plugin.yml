@@ -1,0 +1,12 @@
+main: de.rcexperthd.king.Main
+version: 1.0
+name: King_Of_The_Hill
+
+commands:
+     setspawn:
+     
+     start:
+
+     hub:
+         description: Bringt dich zurück zum Craftattack Server.
+     tpa:
